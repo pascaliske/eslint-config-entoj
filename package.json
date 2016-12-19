@@ -1,18 +1,16 @@
 {
   "name": "eslint-config-entoj",
   "description": "Shareable eslint config for the entoj project.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
-  "author":
-  {
+  "author": {
     "name": "Pascal Iske",
     "email": "info@pascal-iske.de",
     "url": "https://pascal-iske.de"
   },
   "homepage": "https://github.com/pascaliske/eslint-config-entoj",
   "readme": "README.md",
-  "keywords":
-  [
+  "keywords": [
     "eslint",
     "linter",
     "config",
@@ -20,21 +18,17 @@
     "style",
     "code"
   ],
-  "repository":
-  {
+  "repository": {
     "type": "git",
     "url": "https://github.com/pascaliske/eslint-config-entoj.git"
   },
-  "bugs":
-  {
+  "bugs": {
     "url": "https://github.com/pascaliske/eslint-config-entoj/issues"
   },
-  "devDependencies":
-  {
+  "devDependencies": {
     "eslint": "^3.8.1"
   },
-  "peerDependencies":
-  {
+  "peerDependencies": {
     "eslint": ">=3.8.1"
   },
   "main": "index.js"
