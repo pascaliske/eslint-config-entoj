@@ -1,4 +1,7 @@
 # Entoj Shareable ESLint Config
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pascaliske/eslint-config-entoj.svg)](https://greenkeeper.io/)
+
 Shareable eslint config for the entoj project.
 
 ## Install
